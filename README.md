@@ -1,2 +1,2 @@
 # temp
-интернет-магазин на Wordpress 
+temp.gihab.io
