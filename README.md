@@ -1,2 +1,2 @@
 # S-KotLOVE.github.io
-нтернет-магазин на Wordpress
+интерент-магазин на WordPress
