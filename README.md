@@ -1,2 +1,2 @@
-# temp
-temp.gihab.io
+# temp.github.io
+интернет-магазин на Wordpress
