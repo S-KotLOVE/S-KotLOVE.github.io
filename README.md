@@ -1,2 +1,2 @@
-# temp.github.io
-интернет-магазин на Wordpress
+# S-KotLOVE.github.io
+нтернет-магазин на Wordpress
